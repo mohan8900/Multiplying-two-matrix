@@ -15,7 +15,7 @@ multiply the two matrices
 ### Step 5:
 check and verify the program
 ## PROGRAM: 
-
+```
 
 NAME :A K MOHAN RAJ
 REF NO :21001890
@@ -37,7 +37,7 @@ value1=np.array(l1)
 value2= np.array(l2)
 
 result = value1*value2
-
+```
 
 print("Product of two arrays is:", result)
 ## OUTPUT:
